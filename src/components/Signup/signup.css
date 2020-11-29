@@ -1,0 +1,29 @@
+.container{
+    padding: 20px;
+    font-family: sans-serif;
+}
+.label{
+    color: black;
+    font-weight:300;
+  
+}
+.submitbtn
+{
+   
+    background-color: #008CBA;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+    
+}
+.inputs{
+    padding: 5px 5px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}

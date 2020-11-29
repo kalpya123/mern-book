@@ -1,0 +1,16 @@
+.test {
+    text-align: center;
+}
+.post{
+    width: 30%;
+
+}
+.grid
+{
+    text-align: center;
+   
+}
+.blog{
+    text-align: center;
+    display:'flex',
+}
